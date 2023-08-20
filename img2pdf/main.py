@@ -1,8 +1,8 @@
 import img2pdf
 from PIL import Image
 
-img_path = "C:/Users/leram/PycharmProjects/pythonProject16/png/png.png"
-pdf_path = "C:/Users/leram/PycharmProjects/pythonProject16/pdf/file.pdf"
+img_path = "C:/Users/leram/PycharmProjects/img2pdf/png/png.png"
+pdf_path = "C:/Users/leram/PycharmProjects/img2pdf/pdf/file.pdf"
 #Открываем картинку
 image = Image.open(img_path)
 
